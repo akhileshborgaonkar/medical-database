@@ -1,0 +1,4 @@
+HFD,Cyclopalm,stomachache,chloride,Cyclon
+PXR,Sinarest,Fever,Chloride,Sun
+123,nyquil,fever,nyd,hfegasei
+
